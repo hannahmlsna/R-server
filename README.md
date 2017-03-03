@@ -20,7 +20,7 @@ R is a tool of choice for data miners, data analysts, and data scientist. The ri
 
 _R&#39;s rise in popularity overtime_
 
-  **1. 1.2Benefits of R**
+  **1. 1.2 Benefits of R**
 
 **Dataset friendly:** Its greatest strength is that it greatly improves efficiency of development time. As you do not have to formulate loops nearly quite as often in any programming language. You can call a ```mean()``` or a ```sum``` function on the entirety of a column of a dataset without having to build a nested loop.
 
@@ -41,7 +41,7 @@ As much of a force and a movement that open sourced R has been, the programming 
 
 What happens when you expand beyond a couple gigabytes of data? You packed up your data and you used something else; Python, Java, or Mahout to name a few. Now it&#39;s possible to stick with R throughout your production analysis all the way to deployment, regardless of the data size, even in a distributed Hadoop or Spark environment. Introducing Microsoft R Server.
 
- **1. 1.4Microsoft R Family**
+ **1. 1.4 Microsoft R Family**
 
 Microsoft offers four product lines to support R by unlocking its limits and increasing its scope. The Microsoft R family has four products line offerings: SQL Server R, Microsoft R Server, Microsoft R, and Microsoft R Open.
 
