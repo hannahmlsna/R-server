@@ -47,6 +47,8 @@ What happens when you expand beyond a couple gigabytes of data? You packed up yo
 
 Microsoft offers four product lines to support R by unlocking its limits and increasing its scope. The Microsoft R family has four products line offerings: SQL Server R, Microsoft R Server, Microsoft R, and Microsoft R Open.
 
+![Image of Microsoft R](https://cloud.githubusercontent.com/assets/26171849/23569667/3f184cf4-0015-11e7-9d71-3ac362522b27.png)
+
 Microsoft R Server delivers enterprise class performance and scalability for your R-based applications with libraries that allow you to write once and deploy across multiple platforms with minimal effort, whether on-premises or in the cloud.
 
 By using and extending open source R, Microsoft R Server is fully compatible with R scripts, functions and CRAN packages, to analyze data at enterprise scale. It also also addresses the in-memory limitations of open source R by adding parallel and chunked processing of data in Microsoft R Server, enabling users to run analytics on data much bigger than what fits in main memory. And since R Server is built on top of Microsoft R Open, you can use any open source R packages to build your analytics.
