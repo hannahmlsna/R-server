@@ -2,13 +2,13 @@
 
 | R Server |
 | --- |
-| 1.1What is R Programming? |
-| 1.2Benefits of R |
-| 1.3Limitations of R |
-| 1.4Microsoft R Family |
+| 1.1 What is R Programming? |
+| 1.2 Benefits of R |
+| 1.3 Limitations of R |
+| 1.4 Microsoft R Family |
 | |
 
-1. 1R Server
+1 R Server
 ------
 ### 1. 1 What is R Programming?
 
