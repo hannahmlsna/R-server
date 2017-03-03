@@ -1,15 +1,16 @@
-Contents
+### Contents
 
-| 1R Server |
+| R Server |
 | --- |
-| 1.1What is R Programming? |
-| 1.2Benefits of R |
-| 1.3Limitations of R |
-| 1.4Microsoft R Family |
+| 1.1 What is R Programming? |
+| 1.2 Benefits of R |
+| 1.3 Limitations of R |
+| 1.4 Microsoft R Family |
 | |
 
-1. 1R Server
-  1. 1.1What is R Programming?
+1 R Server
+------
+### 1. 1 What is R Programming?
 
 R is an open sourced programming language that was built for statistical computing. It excels at data analysis, has built in graphics support, and has friendly treatment of tabular data structures.
 
@@ -19,8 +20,7 @@ R is a tool of choice for data miners, data analysts, and data scientist. The ri
 
 _R&#39;s rise in popularity overtime_
 
-1.
-  1. 1.2Benefits of R
+### 1. 2 Benefits of R
 
 **Dataset friendly:** Its greatest strength is that it greatly improves efficiency of development time. As you do not have to formulate loops nearly quite as often in any programming language. You can call a ```mean()``` or a ```sum``` function on the entirety of a column of a dataset without having to build a nested loop.
 
@@ -30,8 +30,7 @@ _R&#39;s rise in popularity overtime_
 
 ![Image of R packages](https://cloud.githubusercontent.com/assets/26171849/23569352/b397b3b4-0013-11e7-9ff4-bacc291740f4.png)
 
-1.
-  1. 1.3Limitations of R
+### 1. 3 Limitations of R
 
 As much of a force and a movement that open sourced R has been, the programming language itself lacks the power and efficiency that other programming languages possess. R has always had constraints around scaling out to big data. The four biggest constraints of R are listed below:
 
@@ -42,8 +41,7 @@ As much of a force and a movement that open sourced R has been, the programming 
 
 What happens when you expand beyond a couple gigabytes of data? You packed up your data and you used something else; Python, Java, or Mahout to name a few. Now it&#39;s possible to stick with R throughout your production analysis all the way to deployment, regardless of the data size, even in a distributed Hadoop or Spark environment. Introducing Microsoft R Server.
 
-1.
-  1. 1.4Microsoft R Family
+### 1. 4 Microsoft R Family
 
 Microsoft offers four product lines to support R by unlocking its limits and increasing its scope. The Microsoft R family has four products line offerings: SQL Server R, Microsoft R Server, Microsoft R, and Microsoft R Open.
 
